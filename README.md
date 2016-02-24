@@ -9,4 +9,4 @@ npm install
 grunt serve
 ```
 
-[View demo code here](https://github.com/scottbcovert/queueable-apex-demo)
+[View demo code here](http://bit.ly/1WJkpol)
